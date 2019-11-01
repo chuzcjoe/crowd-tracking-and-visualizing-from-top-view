@@ -2,7 +2,7 @@
 
 optical flow is used for moving object detection in the video shot by a drone camera.
 
-reuqirements:
+requirements:
 1. numpy
 2. opencv3
 
