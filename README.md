@@ -7,3 +7,6 @@ reuqirements:
 2. opencv3
 
 For each frame, each object's moving direction, speed, number of people in the surrounding areas could be calculated and visualized
+
+![image]()
+![image]()
