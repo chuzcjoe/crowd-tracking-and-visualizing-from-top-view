@@ -8,5 +8,5 @@ reuqirements:
 
 For each frame, each object's moving direction, speed, number of people in the surrounding areas could be calculated and visualized
 
-![image](https://github.com/chuzcjoe/crowd-tracking-and-visualizing-from-top-view/master/viz1.jpg)
-![image](https://github.com/chuzcjoe/crowd-tracking-and-visualizing-from-top-view/master/viz2.jpg)
+![image](https://github.com/chuzcjoe/crowd-tracking-and-visualizing-from-top-view/raw/master/viz1.jpg)
+![image](https://github.com/chuzcjoe/crowd-tracking-and-visualizing-from-top-view/raw/master/viz2.jpg)
