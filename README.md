@@ -10,3 +10,7 @@ For each frame, each object's moving direction, speed, number of people in the s
 
 ![image](https://github.com/chuzcjoe/crowd-tracking-and-visualizing-from-top-view/raw/master/viz1.jpg)
 ![image](https://github.com/chuzcjoe/crowd-tracking-and-visualizing-from-top-view/raw/master/viz2.jpg)
+
+
+We use speed, velocity and direction to define the Turbulence level for each extracted frame.
+![image](https://github.com/chuzcjoe/crowd-tracking-and-visualizing-from-top-view/raw/master/output.png)
