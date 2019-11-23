@@ -21,3 +21,5 @@ We use speed, velocity and direction to define the Turbulence level for each ext
 ![image](https://github.com/chuzcjoe/crowd-tracking-and-visualizing-from-top-view/raw/master/output.png)
 
 Our math model for computing the Turbulence level allows us to create pressure map for better visually showing the crowd movement.
+![image](https://github.com/chuzcjoe/crowd-tracking-and-visualizing-from-top-view/raw/master/press%2Bimg.jpg)
+![image](https://github.com/chuzcjoe/crowd-tracking-and-visualizing-from-top-view/blob/master/press.jpg)
