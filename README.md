@@ -20,7 +20,7 @@ For each frame, each object's moving direction, speed, number of people in the s
 We use speed, velocity and direction to define the Turbulence level for each extracted frame.
 ![image](https://github.com/chuzcjoe/crowd-tracking-and-visualizing-from-top-view/raw/master/output.png)
 
-Our math model for computing the Turbulence level allows us to create pressure map for better visually 
+Our math model for computing the Turbulence allows us to create pressure map for better visually 
 showing the crowd movement.
 ![image](https://github.com/chuzcjoe/crowd-tracking-and-visualizing-from-top-view/raw/master/press%2Bimg.jpg)
 ![image](https://github.com/chuzcjoe/crowd-tracking-and-visualizing-from-top-view/raw/master/pressure_map.jpg)
