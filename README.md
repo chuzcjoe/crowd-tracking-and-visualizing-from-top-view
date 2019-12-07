@@ -24,4 +24,5 @@ Pressure Map for showing the geospatial distribution of the pressure value.
 ![image](https://github.com/chuzcjoe/crowd-tracking-and-visualizing-from-top-view/raw/master/interpolate.jpg)
 ![image](https://github.com/chuzcjoe/crowd-tracking-and-visualizing-from-top-view/raw/master/colab_contour.jpg)
 Moreover, individual tracking is added and individual pressure is measured.
-
+![image](https://github.com/chuzcjoe/crowd-tracking-and-visualizing-from-top-view/raw/master/indi_tracki.png)
+![image](https://github.com/chuzcjoe/crowd-tracking-and-visualizing-from-top-view/raw/master/indi.png)
